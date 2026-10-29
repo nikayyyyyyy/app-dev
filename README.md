@@ -3,7 +3,7 @@
 <p align="center"><em>Eight films, one castle, and a story I have re-watched more times than I can count.</em></p>
 
 <p align="center">
-  <img src="https://placehold.co/1200x420/eeeeee/333333/png?text=Harry+Potter+Films" alt="Harry Potter films banner" width="100%">
+  <img src="assets/harry-potter-banner.jpg" alt="Harry Potter films banner" width="100%">
 </p>
 
 <p align="center">
